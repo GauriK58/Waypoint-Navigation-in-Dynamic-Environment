@@ -1,4 +1,4 @@
-# **chips** — *can help if people starving*
+# **chips** — *can help if people starving* :)
 
 A dynamic obstacle-avoiding waypoint navigation robot designed as a waiter for a robotics course.
 
@@ -92,7 +92,7 @@ These names can be changed if required.
   docker stop cc
   ```
 
-## Running CHIPS
+## Running chips
 
 - Launch the default TurtleBot3 Gazebo simulation:
 
