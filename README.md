@@ -2,8 +2,6 @@
 
 A dynamic obstacle-avoiding waypoint navigation robot designed as a waiter for a robotics course.
 
-Repository: https://git.sr.ht/~adisawi/chips
-
 ## Dockerfile
 
 The Dockerfile:
