@@ -1,6 +1,4 @@
-# CHIPS
-
-**chips** — *can help if people starving*
+# **chips** — *can help if people starving*
 
 A dynamic obstacle-avoiding waypoint navigation robot designed as a waiter for a robotics course.
 
